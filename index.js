@@ -18,6 +18,8 @@ eller
 
 Kod kan skrivas direkt i konsollen, exempel:
 alert("hej");
+Eller logga i konsollen direkt, exempel:
+console.log("hej");
 
 2. Scriptelementet lägger ni direkt på er html sida (innan body taggen slutar eller inom head elementet längst upp): <script src"länk-till-er-fil"><script> 
 
@@ -52,4 +54,20 @@ alert("hej");
 
 
 
+
 /* 3. Data Types */
+
+
+
+
+/* Logic Operators */
+
+
+
+
+/* if och else, samt switch */
+
+
+
+
+/* while, do...while och for */
